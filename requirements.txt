@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+-e .
+# -e . is used to install the package in editable mode, allowing for easy development and testing.
+# This is useful for local development, as it allows you to make changes to the code without needing to reinstall the package each time.

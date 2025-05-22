@@ -1,0 +1,3 @@
+eval "$(/opt/anaconda3/bin/conda shell.posix hook)"
+conda activate  /Users/user/ML_course/4th_month/1st_class/.conda
+/Users/user/ML_course/4th_month/1st_class/.conda/bin/python3.11 -Wi -m compileall -q -l -i /var/folders/2z/kf92m3b96t51tf0khtbqm3xh0000gn/T/tmpto_88a39 -j 0
